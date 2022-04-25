@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperApi", "SuperApi\SuperApi.csproj", "{25D84964-A7B9-4CA9-9133-6BD9EE3FDAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D84964-A7B9-4CA9-9133-6BD9EE3FDAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D84964-A7B9-4CA9-9133-6BD9EE3FDAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D84964-A7B9-4CA9-9133-6BD9EE3FDAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D84964-A7B9-4CA9-9133-6BD9EE3FDAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA4993B-8E46-498A-9AAD-DB81EEA11FC5}
+	EndGlobalSection
+EndGlobal
